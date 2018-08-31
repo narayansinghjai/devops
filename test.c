@@ -1,5 +1,10 @@
 void main()
 {
+a-b;
+}
+
+void main()
+{
 a+b;
 }
 void main()
