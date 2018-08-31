@@ -1,4 +1,5 @@
 void main
+<<<<<<< HEAD
 { 
 a/b;
 }
@@ -6,6 +7,20 @@ void main()
 {
 a+b;
 }
+=======
+{
+a-b;
+}
+
+void main
+{
+a+b;
+}
+ void main()
+{
+printf("nice day");
+}
+>>>>>>> pal
 void main()
 {
 printf(" hello world");
@@ -20,3 +35,12 @@ class Addition
   System.out.println(n1+n2);
  }
 }
+ void main()
+{
+printf("good day");
+}
+ void main()
+{
+printf("nice day");
+}
+
